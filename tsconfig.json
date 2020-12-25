@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+        "target": "ES2015", // 컴파일 할 javascript버전
+        "sourceMap": true // 소스맵 처리?
+	},
+    "include": ["index.ts"], // 컴파일 과정에서 포함할 파일의 배열. 
+    "exclude": ["node_modules"]
+}
