@@ -9,8 +9,8 @@ Block Chain with TypeScript! 타입스크립트로 간단한 블록체인을 만
 
 노마드코더의 'Typescript로 블록체인 만들기' 강의를 들으며 공부한 것들을 정리해놓았습니다.
 
-Typescript로 블록체인 만들기 외에도 다양한 글이 보고싶으시다면 블로그로 놀러오세요! https://velog.io/@warmwhiten
-
+https://velog.io/@warmwhiten
+Typescript로 블록체인 만들기 외에도 다양한 글이 보고싶으시다면 블로그로 놀러오세요! 
 
 완강까지 계속 업데이트 될 예정입니다.
 
