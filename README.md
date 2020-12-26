@@ -1,7 +1,7 @@
 # TypeChain
-Block Chain with TypeScript!
+Block Chain with TypeScript! 타입스크립트로 간단한 블록체인을 만들어봅시다.
 
-**강의 URL : https://nomadcoders.co/typescript-for-beginners/lectures/1647**
+🚨**강의 URL : https://nomadcoders.co/typescript-for-beginners/lectures/1647**
 
 ![image](https://user-images.githubusercontent.com/40848918/103148688-cb3ed280-47a5-11eb-921a-d23849422bfb.png)
 
@@ -9,7 +9,10 @@ Block Chain with TypeScript!
 
 노마드코더의 'Typescript로 블록체인 만들기' 강의를 들으며 공부한 것들을 정리해놓았습니다.
 
+Typescript로 블록체인 만들기 외에도 다양한 글이 보고싶으시다면 블로그로 놀러오세요! https://velog.io/@warmwhiten
 
+
+완강까지 계속 업데이트 될 예정입니다.
 
 강좌 이름  | 주소
 ------------ | -------------
